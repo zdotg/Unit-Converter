@@ -1,0 +1,47 @@
+
+html, body { 
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: Inter;
+    font-style: normal;
+    text-align: center;   
+}
+
+h1  {
+  margin: 0;
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 38px;
+}
+
+h3  {
+  margin: 0;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+p {
+  margin-bottom: 27px;
+  color: #D2D2D2;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.container {
+  text-align: center;
+  display: inline-block;
+  width: 550px;
+}
+
+input {
+  color: white;
+  background: transparent;
+  border: 1px solid white;
+}
+
+input:focus {
+  background: white;
+  color: black;
+}
